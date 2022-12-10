@@ -1,3 +1,3 @@
 ### Luigi Fanton
 
-<a href="https://fosstodon.org/@lfanton" rel="me">Mastodon https://fosstodon.org/@lfanton</a>
+Mastodon <a href="https://fosstodon.org/@lfanton" rel="me">https://fosstodon.org/@lfanton</a>
